@@ -1,0 +1,8 @@
+{
+  "name": "@ripeworks/sql",
+  "version": "0.0.1",
+  "dependencies": {
+    "serverless-pg": "^0.1.1",
+    "sql-template-strings": "^2.2.2"
+  }
+}
